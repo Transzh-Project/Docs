@@ -10,7 +10,7 @@ Markdown
 
 PDF
 
-    https://transzh-project.github.io/docs/static/PDF/文件名.pdf
+    https://transzh-project.github.io/docs/static/pdf/文件名.pdf
 
 ### 外链格式
 
@@ -22,4 +22,4 @@ Markdown
 
 PDF
 
-    https://transzh-project.github.io/docs/static/PDF/文件名.pdf
+    https://transzh-project.github.io/docs/static/pdf/文件名.pdf
