@@ -1,4 +1,4 @@
-# [中文跨性别维基文档存档](https://github.com/Transzh-Project/docs)
+# [中文跨性别维基文档存档](https://github.com/Transzh-Program/docs)
 
 ## 相关文章（Markdown）
 
