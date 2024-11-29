@@ -10,7 +10,7 @@ Markdown
 
 PDF
 
-    https://transzh-program.github.io/docs/static/pdf/文件名.pdf
+    docs/static/pdf/文件名.pdf
 
 ### 外链格式
 
