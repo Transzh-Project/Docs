@@ -6,6 +6,10 @@
 
 [医学界《遭7次电击治疗后，一位跨性别者起诉医院》](/docs/static/articles/医学界《遭7次电击治疗后，一位跨性别者起诉医院》.html)
 
+### 2024 年 10 月
+
+[冷杉RECORD《不完美跨儿：病人、斗士与谎言》](/docs/static/articles/冷杉RECORD《不完美跨儿：病人、斗士与谎言》.html)
+
 ## 相关报道（Markdown）
 
 ### 2021 年 1 月
